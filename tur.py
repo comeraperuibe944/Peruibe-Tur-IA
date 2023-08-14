@@ -1,6 +1,6 @@
 # Criado por: Juan Santos Trigo Nasser
 # Versão: 1.0
-# Data 13/08/2023
+# Data 14/08/2023
 
 # imports
 import pyautogui as bot
